@@ -43,5 +43,5 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: https://github.com/genc7l/git-mini-projekt-szkola/tree/main/starter_mini_projekt_git_github
 
