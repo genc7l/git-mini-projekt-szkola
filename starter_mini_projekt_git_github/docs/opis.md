@@ -2,7 +2,7 @@
 
 Ten folder zawiera dokumentację projektu. Uzupełnij ją własnymi notatkami z pracy w Git.
 
-W projekcie powinny znaleźć się:
+W projekcie powinny znaleźć się napewno:
 
 - opis celu projektu,
 - lista najważniejszych komend Git,
