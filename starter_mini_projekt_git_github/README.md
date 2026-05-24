@@ -4,12 +4,12 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Wiktor
+Klasa / grupa: Gencel
 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Celem projektu jest praktyczna nauka pracy z systemem kontroli wersji Git, zarządzania gałęziami oraz synchronizacji kodu z platformą GitHub.
 
 ## Opis projektu
 
@@ -23,19 +23,19 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 
 ## Struktura plików
 
-- `index.html` - strona startowa mini projektu.
-- `style.css` - wygląd strony.
-- `script.js` - prosta interakcja i licznik zadań.
-- `data/zadania.json` - przykładowe dane z zadaniami.
-- `docs/` - krótka dokumentacja projektu.
-- `pliki-do-branchy/` - materiały pomocnicze do pracy na trzech branchach.
+* `index.html` - strona startowa mini projektu.
+* `style.css` - wygląd strony.
+* `script.js` - prosta interakcja i licznik zadań.
+* `data/zadania.json` - przykładowe dane z zadaniami.
+* `docs/` - krótka dokumentacja projektu.
+* `pliki-do-branchy/` - materiały pomocnicze do pracy na trzech branchach.
 
 ## Wymagane branche
 
-- `main`
-- `feature/opis-readme`
-- `feature/komendy-git`
-- `feature/interfejs-zadania`
+* `main`
+* `feature/opis-readme`
+* `feature/komendy-git`
+* `feature/interfejs-zadania`
 
 ## Historia pracy
 
@@ -44,3 +44,4 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 ## Link do repozytorium
 
 Wklej link do publicznego repozytorium GitHub: ........................................
+
