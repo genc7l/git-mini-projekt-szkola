@@ -1,6 +1,6 @@
 # Autor projektu
 
-Imię i nazwisko: Wiktor Gencel
+Imię i nazwisko: Wiktor Genceel
 Klasa / grupa: 4tp
 Data wykonania: 24/05/2026
 
