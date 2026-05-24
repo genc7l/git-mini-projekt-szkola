@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Utworzenie repozytorium",
+    "status": "do wykonania"
+  },
+  {
+    "id": 2,
+    "nazwa": "Uzupełnienie README",
+    "status": "do wykonania"
+  },
+  {
+    "id": 3,
+    "nazwa": "Praca na branchach",
+    "status": "do wykonania"
+  }
+]
